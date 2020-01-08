@@ -1,6 +1,0 @@
-INFO - The is info
-DEBUG - this is debug
-FATAL - this is serious :java.lang.ArithmeticException: / by zero
-INFO - The is info
-DEBUG - this is debug
-FATAL - this is serious :java.lang.ArithmeticException: / by zero
